@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+        <Ad>
+         <ImageUrl>~/photo/amazon.jpg</ImageUrl>
+          <NavigateUrl>http://www.amazon.com</NavigateUrl>
+          <AlternateText>AdRotator Control sample ads</AlternateText>
+          <Impressions>30</Impressions>
+          <Keyword>Asp.Net</Keyword>
+    
+        </Ad>
+      
+        <Ad>
+          <ImageUrl>~/photo/barnesnoble.jpg</ImageUrl>
+          <NavigateUrl>http://www.barnesandnoble.com</NavigateUrl>
+         <AlternateText>AdRotator Control sample ads</AlternateText>
+          <Impressions>30</Impressions>
+          <Keyword>Asp.Net</Keyword>
+        </Ad>
+     
+        <Ad>
+        <ImageUrl>~/photo/dc.jpg</ImageUrl>
+        <NavigateUrl>http://www.dccomics.com</NavigateUrl>
+        <AlternateText>AdRotator Control sample ads</AlternateText>
+        <Impressions>30</Impressions>
+        <Keyword>Asp.Net</Keyword>
+        </Ad>
+      
+  
+        <Ad>
+        <ImageUrl>~/photo/ebay.jpg</ImageUrl>
+        <NavigateUrl>http://www.ebay.com</NavigateUrl>
+        <AlternateText>AdRotator Control sample ads</AlternateText>
+        <Impressions>30</Impressions>
+        <Keyword>Asp.Net</Keyword>
+        </Ad>
+      
+        <Ad>
+        <ImageUrl>~/photo/google.png</ImageUrl>
+        <NavigateUrl>http://www.google.com</NavigateUrl>
+        <AlternateText>AdRotator Control sample ads</AlternateText>
+        <Impressions>30</Impressions>
+        <Keyword>Asp.Net</Keyword>
+        </Ad>
+      
+    
+</Advertisements>

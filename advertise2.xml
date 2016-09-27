@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/photo/ibook.png</ImageUrl>
+    <NavigateUrl>http://www.apple.com</NavigateUrl>
+    <AlternateText>AdRotator Control sample ads</AlternateText>
+    <Impressions>30</Impressions>
+    <Keyword>Asp.Net</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/photo/marvel.jpg</ImageUrl>
+    <NavigateUrl>http://www.marvel.com</NavigateUrl>
+    <AlternateText>AdRotator Control sample ads</AlternateText>
+    <Impressions>30</Impressions>
+    <Keyword>Asp.Net</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/photo/orielly.jpg</ImageUrl>
+    <NavigateUrl>http://www.apple.com</NavigateUrl>
+    <AlternateText>AdRotator Control sample ads</AlternateText>
+    <Impressions>30</Impressions>
+    <Keyword>Asp.Net</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/photo/pearson.jpg</ImageUrl>
+    <NavigateUrl>http://www.pearsoned.com</NavigateUrl>
+    <AlternateText>AdRotator Control sample ads</AlternateText>
+    <Impressions>30</Impressions>
+    <Keyword>Asp.Net</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/photo/weaver.jpg</ImageUrl>
+    <NavigateUrl>http://www.weaverbookcompany.com</NavigateUrl>
+    <AlternateText>AdRotator Control sample ads</AlternateText>
+    <Impressions>30</Impressions>
+    <Keyword>Asp.Net</Keyword>
+  </Ad>
+
+</Advertisements>

@@ -1,0 +1,19 @@
+﻿body {
+    background-color:lightblue;
+}
+.div1{
+ 
+}
+.div2{
+    text-align:center;
+   
+}
+#Table1{
+
+}
+
+.control-label:after { 
+    color: red;
+    content: "*";
+  
+}
